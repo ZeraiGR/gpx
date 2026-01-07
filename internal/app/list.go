@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	"example.com/gpx/internal/state"
+	"github.com/ZeraiGR/gpx/internal/state"
 )
 
 type ProfileItem struct {

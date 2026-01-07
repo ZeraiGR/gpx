@@ -3,8 +3,8 @@ package app
 import (
 	"fmt"
 
-	"example.com/gpx/internal/shell"
-	"example.com/gpx/internal/state"
+	"github.com/ZeraiGR/gpx/internal/shell"
+	"github.com/ZeraiGR/gpx/internal/state"
 )
 
 type ApplyReport struct {

@@ -3,7 +3,7 @@ package app
 import (
 	"fmt"
 
-	"example.com/gpx/internal/envx"
+	"github.com/ZeraiGR/gpx/internal/envx"
 )
 
 func (a App) SetVars(tokens []string) ([]string, error) {

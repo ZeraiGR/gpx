@@ -3,7 +3,7 @@ package app
 import (
 	"fmt"
 
-	"example.com/gpx/internal/config"
+	"github.com/ZeraiGR/gpx/internal/config"
 )
 
 type App struct {

@@ -3,8 +3,8 @@ package app
 import (
 	"fmt"
 
-	"example.com/gpx/internal/config"
-	"example.com/gpx/internal/envx"
+	"github.com/ZeraiGR/gpx/internal/config"
+	"github.com/ZeraiGR/gpx/internal/envx"
 )
 
 func (a App) AddProfile(name string) error {
