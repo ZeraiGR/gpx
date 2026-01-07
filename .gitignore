@@ -2,9 +2,9 @@
 # Go build artifacts
 # =========================
 
-# Binaries
-gpx
-gpx.exe
+# Binaries (root only)
+ /gpx
+ /gpx.exe
 
 # Build output
 dist/
