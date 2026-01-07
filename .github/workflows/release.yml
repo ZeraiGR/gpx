@@ -91,9 +91,6 @@ jobs:
             (cd dist && tar -czf "${PKG_NAME}.tar.gz" "${PKG_NAME}")
           fi
 
-      - name: List dist
-        run: ls -ლა dist
-
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
