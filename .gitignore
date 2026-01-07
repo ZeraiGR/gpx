@@ -1,0 +1,61 @@
+# =========================
+# Go build artifacts
+# =========================
+
+# Binaries
+gpx
+gpx.exe
+
+# Build output
+dist/
+
+# Go test binaries
+*.test
+
+# Coverage files
+*.out
+
+# =========================
+# Go tooling
+# =========================
+
+# Go workspace file
+go.work
+go.work.sum
+
+# =========================
+# OS-specific files
+# =========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDE / Editors
+# =========================
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# GoLand / IntelliJ
+.idea/
+
+# Vim
+*.swp
+*.swo
+
+# =========================
+# Temporary / local files
+# =========================
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
